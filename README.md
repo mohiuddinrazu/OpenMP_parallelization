@@ -1,7 +1,7 @@
 
 #Parallel Programming at CoDaS_HEP
 
-These materials support my parallel programming course CoDaS HEP 2025.
+These materials support parallel programming course CoDaS HEP 2025.
 They include:
 
 * OMP_CPU_Exercises: a directory with code for exercises
